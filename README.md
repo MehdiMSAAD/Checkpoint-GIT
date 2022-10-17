@@ -14,3 +14,4 @@
 <img width="960" alt="13-Commit with the message removing third txt" src="https://user-images.githubusercontent.com/115349454/196227613-55dab211-9a0f-4dfa-8340-da681f392637.png">
 <img width="960" alt="14-Check out your commits using git log" src="https://user-images.githubusercontent.com/115349454/196227770-b3fb022c-3081-43fe-8198-50056af16c9e.png">
 <img width="960" alt="15-Change your global settings to core pager" src="https://user-images.githubusercontent.com/115349454/196227870-7e5ea5a6-0144-4297-8b6a-661b0762bae3.png">
+<img width="960" alt="16-list all the global configurations for git" src="https://user-images.githubusercontent.com/115349454/196228032-ccd064dc-c27c-4093-94e7-50375dfe9f70.png">
