@@ -12,3 +12,4 @@
 <img width="960" alt="11-Remove the third txt file" src="https://user-images.githubusercontent.com/115349454/196227319-52f885a8-0e0c-4936-9bb8-827d28087185.png">
 <img width="960" alt="12-Add this change to the staging area  (Using the command git add   " src="https://user-images.githubusercontent.com/115349454/196227459-356bd771-9618-48e2-a8c5-d3ba9f5601f5.png">
 <img width="960" alt="13-Commit with the message removing third txt" src="https://user-images.githubusercontent.com/115349454/196227613-55dab211-9a0f-4dfa-8340-da681f392637.png">
+<img width="960" alt="14-Check out your commits using git log" src="https://user-images.githubusercontent.com/115349454/196227770-b3fb022c-3081-43fe-8198-50056af16c9e.png">
