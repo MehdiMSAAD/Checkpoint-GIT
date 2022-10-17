@@ -7,3 +7,4 @@
 <img width="960" alt="6-Commit with the message adding third txt" src="https://user-images.githubusercontent.com/115349454/196226486-f3786bfd-19ac-4a54-b329-fbb58f4baea6.png">
 <img width="960" alt="7-Check out your commit with git log" src="https://user-images.githubusercontent.com/115349454/196226671-da66db3a-5450-4e74-a51d-82441bb41884.png">
 <img width="960" alt="8-Create another file called fourth txt" src="https://user-images.githubusercontent.com/115349454/196226880-8e8ebdf5-5c4f-4d63-affa-6ac134211186.png">
+<img width="960" alt="9-Add fourth txt to the staging area" src="https://user-images.githubusercontent.com/115349454/196227006-0b65f911-b13b-41d4-ae18-f9c0d05abbf6.png">
