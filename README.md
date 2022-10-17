@@ -9,3 +9,4 @@
 <img width="960" alt="8-Create another file called fourth txt" src="https://user-images.githubusercontent.com/115349454/196226880-8e8ebdf5-5c4f-4d63-affa-6ac134211186.png">
 <img width="960" alt="9-Add fourth txt to the staging area" src="https://user-images.githubusercontent.com/115349454/196227006-0b65f911-b13b-41d4-ae18-f9c0d05abbf6.png">
 <img width="960" alt="10-Commit with the message adding fourth txt" src="https://user-images.githubusercontent.com/115349454/196227139-867273ff-0d28-4ddf-903e-467eb02b3d07.png">
+<img width="960" alt="11-Remove the third txt file" src="https://user-images.githubusercontent.com/115349454/196227319-52f885a8-0e0c-4936-9bb8-827d28087185.png">
