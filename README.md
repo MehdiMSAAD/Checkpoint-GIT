@@ -13,3 +13,4 @@
 <img width="960" alt="12-Add this change to the staging area  (Using the command git add   " src="https://user-images.githubusercontent.com/115349454/196227459-356bd771-9618-48e2-a8c5-d3ba9f5601f5.png">
 <img width="960" alt="13-Commit with the message removing third txt" src="https://user-images.githubusercontent.com/115349454/196227613-55dab211-9a0f-4dfa-8340-da681f392637.png">
 <img width="960" alt="14-Check out your commits using git log" src="https://user-images.githubusercontent.com/115349454/196227770-b3fb022c-3081-43fe-8198-50056af16c9e.png">
+<img width="960" alt="15-Change your global settings to core pager" src="https://user-images.githubusercontent.com/115349454/196227870-7e5ea5a6-0144-4297-8b6a-661b0762bae3.png">
