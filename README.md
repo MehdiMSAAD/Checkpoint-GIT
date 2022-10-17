@@ -3,3 +3,4 @@
 <img width="960" alt="2-Cd (change directory) into the learn_git folder" src="https://user-images.githubusercontent.com/115349454/196225776-85723703-3ddd-4013-8b9b-4dcfe220255f.png">
 <img width="960" alt="3-Create a file called third txt" src="https://user-images.githubusercontent.com/115349454/196225998-a7ec3386-5183-47c6-abdb-8235963db0c6.png">
 <img width="960" alt="4-Initialize an empty git repository" src="https://user-images.githubusercontent.com/115349454/196226170-9c3aa4e6-b882-4982-8d46-34b0c447c67b.png">
+<img width="960" alt="5-Add third txt to the staging area" src="https://user-images.githubusercontent.com/115349454/196226336-988c5d06-ea12-41a6-bd6a-55916b345864.png">
